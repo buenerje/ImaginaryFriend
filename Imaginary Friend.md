@@ -6,7 +6,7 @@ An **Imaginary Friend** can be modelled with as much or as little depth as you c
 
 I made this because I got into solo roleplaying recently with Ironsworn, but struggled with role playing, I mostly liked the world building, but no one wanted to play with me. So I just made a friend out of dice, meters, tokens, tables, and an unwillingness to go outside. I've also included a picture of a little prototype of a... dashboard, I guess, that I'm working on to make it simpler.
 
-I've done some tentative play testing but any feedback or opinions are welcome. Disclosure: AI was used in organization this, and credit goes to tam b and their Pettish system for being the main inspiration. 
+I've done some tentative play testing but any feedback or opinions are welcome. Disclosure: AI was used in the organization of this, and credit goes to tam b and their Pettish system for being the main inspiration. 
 
 ---
 
